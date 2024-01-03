@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tiktok share video prompt alert</string>
+    <string name="alert_message1">Are you sure you want to \n share this video?</string>
+    <string name="alert_message2">This video was flagged for \n unverified content</string>
+    <string name="share">Share anyway</string>
+</resources>
